@@ -1,0 +1,1 @@
+// Hide the displayed menu. If you want to scroll, you're obviously not interested in the options.
